@@ -1,0 +1,15 @@
+CSE	9920
+Economics	9930
+BBA	9929
+Mathematics	10076
+Architecture	10059
+Pharmacy	10120
+Law	9878
+Civil Engineering	10034
+Public Health	10065
+Physics	9958
+Journalism	9992
+EEE	10053
+Sociology	9848
+English	10154
+Mechanical Engineering	9984

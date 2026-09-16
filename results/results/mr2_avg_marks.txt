@@ -1,0 +1,15 @@
+CSE	67.52
+Economics	67.43
+BBA	67.42
+Mathematics	67.67
+Architecture	67.70
+Pharmacy	67.64
+Law	67.55
+Civil Engineering	67.52
+Public Health	67.53
+Physics	67.54
+Journalism	67.65
+EEE	67.46
+Sociology	67.52
+English	67.65
+Mechanical Engineering	67.60

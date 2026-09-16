@@ -1,0 +1,4 @@
+Male,No,69958
+Male,Yes,12442
+Female,No,57467
+Female,Yes,10133
